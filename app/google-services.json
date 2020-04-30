@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96073401336",
+    "firebase_url": "https://wedapp-266618.firebaseio.com",
+    "project_id": "wedapp-266618",
+    "storage_bucket": "wedapp-266618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96073401336:android:b26783b0fd203da7f7cc0d",
+        "android_client_info": {
+          "package_name": "com.example.aqipredictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96073401336-tm261d6he3d2b3qvuvu9vcc5s1b4m4jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWBGiP06bCUAf1yJ2croNh_Zq1cCd3Djo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96073401336-tm261d6he3d2b3qvuvu9vcc5s1b4m4jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

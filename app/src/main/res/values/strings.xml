@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">AQI Predictor</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="wear_a_mask">WEAR A MASK OUTDOORS</string>
+    <!-- Instruction Popup-->
+    <string name="instruction">Instructions</string>
+    <string name="landscape">Landscape</string>
+    <string name="direct_ligh">Direct Light</string>
+    <string name="sky_reigon">Sky Reigon</string>
+    <string name="upload">Upload</string>
+
+    <style name="instruction">
+        <item name="android:textSize">
+            14sp
+        </item>
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+    </style>
+
+    <style name="landscape">
+        <item name="android:textSize">
+            14sp
+        </item>
+        <item name="android:textColor">
+            #53B548
+        </item>
+    </style>
+
+
+    <style name="image_must_">
+        <item name="android:textSize">
+            13sp
+        </item>
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+    </style>
+
+    <style name="weather">
+        <item name="android:textSize">
+            18sp
+        </item>
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+    </style>
+
+    <string name="image_must_">Image must contain atleast 50% sky region</string>
+    <string name="image_dw">Image doesn\'t contain any direct source of light</string>
+    <string name="upload_imag">Upload Image In Landscape</string>
+    <string name="upload_image">Click Camera Icon To Know Air Quality</string>
+    <string name="title_activity_result">Map</string>
+
+    <!--Weather Details-->
+    <style name="wind">
+        <item name="android:textSize">
+            18sp
+        </item>
+        <item name="android:textColor">
+            #35D81D
+        </item>
+    </style>
+
+    <string name="title_activity_result_with_bottom">ResultWithBottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>

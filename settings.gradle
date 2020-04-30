@@ -1,0 +1,2 @@
+rootProject.name='AQI Predictor'
+include ':app'

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/ic_home_black_24dp">
+        </item>
+        <item
+            android:id="@+id/nav_instruction"
+            android:title="Instruction"
+            android:icon="@drawable/instructionswhite">
+        </item>
+        <item
+            android:id="@+id/guide"
+            android:title="AQL Guide"
+            android:icon="@drawable/guide">
+        </item>
+        <item
+            android:id="@+id/rate"
+            android:title="Rate Us"
+            android:icon="@drawable/rate">
+        </item>
+        <item
+            android:id="@+id/exit"
+            android:title="Exit"
+            android:icon="@drawable/exit">
+        </item>
+    </group>
+</menu>
